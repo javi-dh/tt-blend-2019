@@ -3,6 +3,7 @@
 En el presente repositorio se irán publicando el clase a clase de los archivos elaborados como ejemplo. La idea con el mismo es que lo puedan ir tomando como referencia para las ejercitaciones y futuras tareas en el *Proyecto Integrador*.
 
 - [Clase 24.05 - require, foreach, funciones](/clase-repaso-24.05/)
+- [Clase 21.06 - session, cookies, buscador](/clase-repaso-21.06/)
 
 > *Tengan en cuenta que para poder tener este mismo repositorio en sus máquinas deberán seguir los siguientes pasos:*
 

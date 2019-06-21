@@ -151,15 +151,15 @@ a {
 
 	.product {
 		width: 48.34%;
-		margin-left: 0.83%;
-		margin-right: 0.83%;
+		margin-left: 0.83333%;
+		margin-right: 0.83333%;
 		float: left;
 	}
 }
 
 @media (min-width: 990px) {
 	.product {
-		width: 31.34%;
+		width: 31.67%;
 	}
 
 	.main-footer {
